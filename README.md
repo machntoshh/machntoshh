@@ -1,4 +1,4 @@
-## Hi, my name is Eric Marques, but people call me Marques or Maquenzi 🎴
+## Hi, my name is Eric Marques, nice to meetya! 🎴
 
 - I'm a developer based on Brazil 🇧🇷
 
