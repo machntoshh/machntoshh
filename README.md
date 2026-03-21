@@ -1,6 +1,6 @@
 # Eric Marques Gomes
 
-**`Desenvolvedor e QA analyst`**
+**`QA Engineer & AI enthusiast`**
 
 Opa, tudo joia?
 Me chamo Eric e bem vindo(a) ao meu github :)
