@@ -3,7 +3,7 @@
 **`QA Engineer, AI enthusiast and Programmer occasionally`**
 
 Opa, tudo joia?
-Me chamo Eric e bem vindo(a) ao meu github :)
+Bem-vindo! Welcome!
 
 ---
 
