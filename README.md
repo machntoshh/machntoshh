@@ -1,6 +1,6 @@
 # Eric Marques Gomes
 
-**`QA Engineer, AI enthusiast and Programmer occasionally`**
+**`QA Engineer, AI enthusiast and I code stuff occasionally`**
 
 Opa, tudo joia? <br>
 Bem-vindo! Welcome!
