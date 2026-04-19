@@ -4,6 +4,7 @@
 
 Opa, tudo joia? <br>
 Bem-vindo! Welcome!
+Atualmente estou estudando Cypress e Selenium para automações Web
 
 ---
 
