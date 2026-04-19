@@ -3,7 +3,7 @@
 **`QA Engineer, AI enthusiast and I code stuff occasionally`**
 
 Opa, tudo joia? <br>
-Bem-vindo! Welcome!
+Bem-vindo! Welcome! <br>
 Atualmente estou estudando Cypress e Selenium para automações Web
 
 ---
