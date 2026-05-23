@@ -4,7 +4,7 @@
 
 Opa, tudo joia? <br>
 Bem-vindo! Welcome! <br>
-Atualmente estou estudando Cypress e Selenium para automações Web
+Atualmente estou estudando Cypress e automações Web / API Testing / Integração da IA no workflow
 
 ---
 
