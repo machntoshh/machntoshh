@@ -2,9 +2,8 @@
 
 **`QA Engineer, AI enthusiast and I code stuff occasionally`**
 
-Opa, tudo joia? <br>
 Bem-vindo! Welcome! <br>
-Atualmente estou estudando Cypress e automações Web / API Testing / Integração da IA no workflow
+Studying Cypress for web automations / API Testing / IA integration in my QA workflow
 
 ---
 
