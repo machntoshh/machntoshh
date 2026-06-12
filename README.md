@@ -3,7 +3,7 @@
 **`QA Engineer, AI enthusiast and I code stuff occasionally`**
 
 Bem-vindo! Welcome! <br>
-Studying Cypress for web automations / API Testing / IA integration in my QA workflow
+Cypress for web automations / API Testing / IA integration in my QA workflow
 
 ---
 
