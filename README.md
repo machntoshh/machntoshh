@@ -1,8 +1,6 @@
-# Eric Marques Gomes
+## Bem-vindo! Welcome! <br>
 
 **`QA Engineer, AI enthusiast and I code and vibecode stuff occasionally`**
-
-Bem-vindo! Welcome! <br>
 Cypress for web automations / API Testing / IA integration in my QA workflow
 
 ---
