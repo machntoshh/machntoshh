@@ -1,7 +1,8 @@
 ## Bem-vindo! Welcome! <br>
 
 **`QA Engineer, AI enthusiast and I code and vibecode stuff occasionally`** <br><br>
-Cypress for web automations / API Testing / IA integration in my QA workflow
+Cypress for web automations / API Testing / IA integration in my QA workflow <br>
+Studying for DevOps
 
 ---
 
